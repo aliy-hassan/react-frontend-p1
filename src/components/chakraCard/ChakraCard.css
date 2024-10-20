@@ -1,0 +1,7 @@
+.ccImgs{
+    width: 75px !important;
+    height: 75px !important;
+    border: 1px solid gray;
+    border-radius: 100%!important;
+    margin: 20px auto 0;
+}

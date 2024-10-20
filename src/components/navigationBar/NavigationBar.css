@@ -1,0 +1,23 @@
+.nbLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nbLogo img{
+    width: 22%;
+    height: auto !important;
+    border: none;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+.nbLogo h2{
+    color: #2D3748;
+    margin: 0;
+    /* font-weight: 700; */
+}
+.topNavBar form{
+    width: 60%;
+}
+.topNavBar input[type="search"]{
+    width: 100%;
+}
