@@ -10,3 +10,8 @@
 .bsCardSec{
   margin-bottom: 80px;
 }
+
+body{
+  width: 100%;
+  overflow-x: hidden;
+}

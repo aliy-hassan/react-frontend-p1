@@ -33,9 +33,9 @@ function App() {
 
         <div className='row row-cols-md-3 g-3 justify-content-center bsCardSec'>
           {/* <BsCard/> */}
-          <BsCard style={{ backgroundColor: 'pink', color: 'blue' }} list={['Item 1', 'Item 2']} src={require('./store/images/img1.jpg')} />
-          <BsCard style={{ backgroundColor: 'skyblue', color: 'white' }} list={['Item I', 'Item II', 'Item III']} src={require('./store/images/Front End Developer.jpg')} />
-          <BsCard style={{ backgroundColor: 'orange', color: 'white' }} list={['Item A', 'Item B']} src={require('./store/images/img3.jpg')} />
+          <BsCard style={{ backgroundColor: 'pink', color: 'blue' }} list={['Item 1', 'Item 2']} title="Front End" src={require('./store/images/frontend.jpg')} />
+          <BsCard style={{ backgroundColor: 'skyblue', color: 'white' }} list={['Item I', 'Item II', 'Item III']} title="Back End" src={require('./store/images/abc.png')} />
+          <BsCard style={{ backgroundColor: 'orange', color: 'white' }} list={['Item A', 'Item B']} title="Full Stack" src={require('./store/images/2918517.webp')} />
         </div>
 
       }

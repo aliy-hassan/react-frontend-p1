@@ -4,4 +4,12 @@
 .bsCard{
     margin: 0 10px;
 }
+.bsCard .img-box{
+    width: 100%;
+    height: 200px;
+}
+.bsCard .img-box img{
+    width: 100%;
+    height: 100%;
+}
 
